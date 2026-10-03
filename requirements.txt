@@ -1,0 +1,11 @@
+streamlit
+openai-whisper
+ffmpeg-python
+pandas
+numpy
+matplotlib
+python-dotenv 
+pypdf
+firebase-admin
+streamlit-firebase-auth
+google-genai
